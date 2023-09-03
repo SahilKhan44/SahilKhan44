@@ -1,6 +1,7 @@
 <!-- Replace with your profile image -->
 <p align="center">
-  <img src="AvatarMaker.png" alt="Sahil Khan" width="200" height="200">
+<img src="AvatarMaker.png" alt="Sahil Khan" width="200" height="200" style="border-radius: 50%;">
+
 </p>
 
 <h1 align="center">👋 HEllo Developer ! I'm Sahil Khan</h1>
