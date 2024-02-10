@@ -1,6 +1,6 @@
 <!-- Replace with your profile image -->
 <p align="center">
-<img src="AvatarMaker.png" alt="Sahil Khan" width="200" height="200" style="border-radius: 50%;">
+<img src="AvatarMaker.png" alt="Sahil Khan" width="200" height="200" style="border-radius: 50;">
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SahilKhan44&label=Profile%20views&color=0e75b6&style=flat" alt="SahilKhan44" /> </p>
 
 
