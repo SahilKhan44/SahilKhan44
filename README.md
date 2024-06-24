@@ -5,7 +5,7 @@
 
 <img src= "images/profile.png" href="https://github.com/SahilKhan44" alt="Coder boy"  width="100%"/><br> 
 
-<i>Hello Developer ! I'm Sahil Khan.
+<i>Hello Developer! I'm Sahil Khan.
 <p>
   <strong>Crashed in code- "Noob Poet"👾</strong><br>
   <strong>Having rush of people in life  perhaps "Lucky  I am??"</strong>
@@ -178,27 +178,10 @@ I'm excited to connect with fellow developers and collaborate on innovative proj
 ![SahilKhan44's Streak](https://github-readme-streak-stats.herokuapp.com/?user=SahilKhan44&theme=tokyonight&hide_border=true)
 ![SahilKhan44's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SahilKhan44&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
 
-<img src="https://raw.githubusercontent.com/SahilKhan44/profile-summary-cards/master/profile-summary-card-output/nord_dark/3-stats.svg" width="32.5%">
-<img src="https://raw.githubusercontent.com/SahilKhan44/profile-summary-cards/master/profile-summary-card-output/nord_dark/1-repos-per-language.svg" width="32.5%">
-<img src="https://raw.githubusercontent.com/SahilKhan44/profile-summary-cards/master/profile-summary-card-output/nord_dark/2-most-commit-language.svg" width="32.5%">
-
-
-
-</a>
-
-<details>
-  <summary>More stats</summary>
-  
-<img align="center" src="https://raw.githubusercontent.com/SahilKhan44/profile-summary-cards/master/profile-summary-card-output/nord_dark/0-profile-details.svg" >
-
-</details>
-<!-- Snake Animation -->
-
-![snake animation](https://github.com/SahilKhan44/SahilKhan44/blob/output/github-contribution-grid-snake.svg)
 
 ### 📫 Contact Me
 
-📧 Feel free to reach out to me at sahii.khan44484@gmail.com .
+📧 Feel free to reach out to me at sahil.khan44484@gmail.com.
 
 ### 🌟 Let's Connect
 
