@@ -145,7 +145,7 @@ class About extends Me {
 
 👋 Building a Resume-Builder with React, Vite, Tailwind CSS.
 
-🎨 Here we make resumes single pagewith amazing templates .
+🎨 Here we make resumes single pages with amazing templates.
 
 </div>
 
@@ -160,7 +160,7 @@ class About extends Me {
 
 👋 I developed a Real-time Chat Application using Web Sockets.
 
-🎨 Here we talk in a private space we can chat in groups also in real time.
+🎨 Here we talk in a private space we can chat in groups and also in real time.
 
 </div>
 
@@ -168,7 +168,7 @@ Explore more of my projects in my [repositories](https://github.com/SahilKhan44)
 
 ### 📫 Contact Me
 
-📧 Feel free to reach out to me at sahii.khan44484@gmail.com .
+📧 Feel free to reach out to me at sahil.khan44484@gmail.com.
 
 ### 🌟 Let's Connect
 
@@ -196,6 +196,12 @@ I'm excited to connect with fellow developers and collaborate on innovative proj
 
   ## Contributing ongoing...
 ![Snake animation](https://raw.githubusercontent.com/taozhi8833998/taozhi8833998/output/github-contribution-grid-snake-dark.svg)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
 
 <hr></hr> 
 
