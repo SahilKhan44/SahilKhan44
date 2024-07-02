@@ -1,8 +1,7 @@
 <div align="center" width="50">
 
 
-## Contributing ongoing...
-![Snake animation](https://raw.githubusercontent.com/taozhi8833998/taozhi8833998/output/github-contribution-grid-snake-dark.svg)
+
 
 
 <img src="https://text.media.giphy.com/v1/media/giphy.gif?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJrZXkiOiJwcm9kLTIwMjAtMDQtMjIiLCJzdHlsZSI6InJhZ2UiLCJ0ZXh0IjoiSGlpJTIwISUyMEl0J3MlMjBtZSUyMFNhaGlsJTIwS2hhbiIsImlhdCI6MTcxOTIxMDUxMH0.rbHcfQp20782ZWl_OaIeA5SdnImT-InWIDgCl2453H8" alt="Hello Coders-Animation Loading" width="40%"/> <br>
@@ -193,7 +192,11 @@ I'm excited to connect with fellow developers and collaborate on innovative proj
 I'm excited to connect with fellow developers and collaborate on innovative projects. Let's build amazing things together!
 
 🌈 Let's make the tech world more colorful and exciting! 🚀
-  
+
+
+  ## Contributing ongoing...
+![Snake animation](https://raw.githubusercontent.com/taozhi8833998/taozhi8833998/output/github-contribution-grid-snake-dark.svg)
+
 <hr></hr> 
 
 **Coder emotions**<br>
