@@ -26,7 +26,7 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-                Exactly 5 colors are expected.
+               
     outputs: |
       dist/github-snake.svg
       dist/github-snake-dark.svg?palette=github-dark
