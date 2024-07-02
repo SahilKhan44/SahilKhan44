@@ -16,7 +16,7 @@ jobs:
         with:
           github_user_name: SahilKhan44  # Replace with your GitHub username
           svg_out_path: dist/github-contribution-grid-snake.svg
-          snake_color: 'red'
+          snake_color: 'blue'
 
       - name: Deploy to GitHub Pages
         uses: crazy-max/ghaction-github-pages@v2.1.3
