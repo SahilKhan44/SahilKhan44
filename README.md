@@ -1,7 +1,5 @@
 <div align="center" width="50">
-<!-- Markdown -->
 
-![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder&theme=gradientBlue&qColor=%23944bcc&aColor=%23bbdb51)
 
 
 
@@ -205,6 +203,8 @@ I'm excited to connect with fellow developers and collaborate on innovative proj
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Astonished%20Face.png" width="10%" alt="It's working but you don't know how!"/><br>
 
+<!-- Markdown -->
 
+![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder&theme=tokyonight&qColor=%23944bcc&aColor=%23bbdb51)
 
 </div>
