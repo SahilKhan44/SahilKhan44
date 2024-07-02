@@ -4,7 +4,7 @@
 ## Feeding...
 ![Snake animation](https://raw.githubusercontent.com/taozhi8833998/taozhi8833998/output/github-contribution-grid-snake-dark.svg)
 
-<img src="https://raw.githubusercontent.com/msoftware/msoftware/output/github-contribution-grid-snake.svg" />
+
 <img src="https://text.media.giphy.com/v1/media/giphy.gif?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJrZXkiOiJwcm9kLTIwMjAtMDQtMjIiLCJzdHlsZSI6InJhZ2UiLCJ0ZXh0IjoiSGlpJTIwISUyMEl0J3MlMjBtZSUyMFNhaGlsJTIwS2hhbiIsImlhdCI6MTcxOTIxMDUxMH0.rbHcfQp20782ZWl_OaIeA5SdnImT-InWIDgCl2453H8" alt="Hello Coders-Animation Loading" width="40%"/> <br>
 
 
