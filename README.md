@@ -11,11 +11,11 @@
 
 <i>Hello Developer! I'm Sahil Khan.
 <p>
-  <strong>Crashed in code- "Noob Poet"👾</strong><br>
-  <strong>Having rush of people in life  perhaps "Lucky  I am??"</strong>
+  <strong>Crashed in code👾</strong><br>
+  <strong>working on python+django && React</strong>
 </p>
 
-<p><strong>Vibing to : 💔->🎧->💝"Dekh tera kya rang kr diya h ,Khushboo ka jhoka tere sang kr diya h" </strong></p>
+<p><strong>Coding to : 💔->🎧->💝Mern developer:Django developer" </strong></p>
 
 
 
