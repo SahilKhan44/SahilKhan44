@@ -1,29 +1,33 @@
-name: Generate Snake Game
+name: Build and Deploy Jekyll Site
 
 on:
-  schedule:
-    - cron: "0 */12 * * *"
+  push:
+    branches:
+      - main  # Trigger on push to main
   workflow_dispatch:
 
 jobs:
   build:
-    name: Update Snake Game
+    name: Build Jekyll Site
     runs-on: ubuntu-latest
+
     steps:
-      - name: Generate Snake Animation
-        id: snake-gif
-        uses: Sutil/snk@main  # Updated to main, if master doesn't exist
-        with:
-          github_user_name: SahilKhan44  # Ensure this is correct
-          svg_out_path: dist/github-contribution-grid-snake.svg
-          snake_color: 'blue'
+      - name: Checkout code
+        uses: actions/checkout@v3
+
+      - name: Install dependencies
+        run: |
+          gem install bundler
+          bundle install
+
+      - name: Build the Jekyll site
+        run: |
+          bundle exec jekyll build --source docs
 
       - name: Deploy to GitHub Pages
         uses: crazy-max/ghaction-github-pages@v2.1.3
-     
         with:
-          build_dir: ./  # Root directory
-          target_branch: output
-          
+          target_branch: gh-pages
+          build_dir: docs/_site  # Ensure this is where Jekyll builds the site
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
