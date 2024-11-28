@@ -1,4 +1,4 @@
-name: Generate snake game
+name: Generate Snake Game
 
 on:
   schedule:
@@ -12,9 +12,9 @@ jobs:
     steps:
       - name: Generate Snake Animation
         id: snake-gif
-        uses: Sutil/snk@master
+        uses: Sutil/snk@main  # Updated to main, if master doesn't exist
         with:
-          github_user_name: SahilKhan44  # Replace with your GitHub username
+          github_user_name: SahilKhan44  # Ensure this is correct
           svg_out_path: dist/github-contribution-grid-snake.svg
           snake_color: 'blue'
 
